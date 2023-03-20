@@ -1,0 +1,4 @@
+#Mon Mar 20 15:51:45 TRT 2023
+base.0=/Users/yahya/AndroidStudioProjects/shopping_list_task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
